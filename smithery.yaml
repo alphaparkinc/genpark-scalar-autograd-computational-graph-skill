@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-scalar-autograd-computational-graph-skill
+service:
+  name: genpark-scalar-autograd-computational-graph-skill
+  command: python
+  args:
+    - mcp_server.py
