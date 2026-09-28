@@ -1,0 +1,9 @@
+{
+  "name": "genpark-scalar-autograd-computational-graph-skill",
+  "version": "1.0.0",
+  "description": "Reverse-mode automatic differentiation engine with DAG tape and chain rule backpropagation",
+  "entry_point": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service",
+  "dependencies": []
+}
